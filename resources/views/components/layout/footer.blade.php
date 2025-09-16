@@ -1,7 +1,7 @@
 <footer>
     <div class="top">
         <div class="logo">
-            <a href="/">Just-Lab</a>
+            <a>Just-Lab</a>
         </div>
         <ul>
             <li><a href="#">Home</a></li>
