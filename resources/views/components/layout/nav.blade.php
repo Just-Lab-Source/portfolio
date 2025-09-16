@@ -1,6 +1,6 @@
 <nav>
     <div class="logo">
-        <a target="_blank">Just-Lab</a>
+        <a href="/">Just-Lab</a>
     </div>
     <ul>
         <li><a href="#main">Home</a></li>
