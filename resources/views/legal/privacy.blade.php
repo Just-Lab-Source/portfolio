@@ -34,7 +34,7 @@
     <main class="legal">
         <h1>Datenschutzerklärung</h1>
         <section>
-            <p>Stand: 5. September 2025</p>
+            <p>Stand: 16. September 2025</p>
             <h2>Inhaltsübersicht</h2>
             <ul class="index">
                 <li><a class="index-link" href="#m3">Verantwortlicher</a></li>
@@ -55,8 +55,8 @@
         <section>
             <h2 id="m3">Verantwortlicher</h2>
             <p>Malgorzata Pacharzyna<br>Freeheit 11A<br>24257 Schwartbuck Deutschland</p>
-            <p>E-Mail-Adresse: mail@just-lab.de</p>
-            <p>Telefon: +49 1578 0319562</p>
+            <p>E-Mail-Adresse: <a href="mailto:mail@just-lab.de">mail@just-lab.de</a></p>
+            <p>Telefon: <a href="tel:+4915780319562">+49 1578 0319562</a></p>
             <p>Impressum: <a href="{{ $link['legal']['imprint'] }}"
                     target="_blank">{{ $link['legal']['imprint'] }}</a>
             </p>
