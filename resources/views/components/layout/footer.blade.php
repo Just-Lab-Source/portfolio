@@ -17,7 +17,7 @@
 
     <div class="bottom">
         <p>
-            &copy; {{ date('Y') }} Just-Lab. All rights reserved.
+            &copy; {{ date('Y') }} Just-Lab.de All rights reserved.
         </p>
         <div class="links">
             <a href="/legal/imprint">Imprint</a>
