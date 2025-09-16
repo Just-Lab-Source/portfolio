@@ -8,7 +8,7 @@
     <meta name="robots" content="noai, noimageai">
 
     <!-- Stylesheets & Icons -->
-    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+    <link href="{{ asset('/libraries/boxicons/css/boxicons.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('/css/globals.css') }}">
     <link rel="icon" type="image/png" href="{{ asset('/images/profile.png') }}">
 

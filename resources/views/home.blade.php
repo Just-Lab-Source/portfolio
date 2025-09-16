@@ -10,7 +10,7 @@
         <meta name="robots" content="index, follow, noai, noimageai">
 
         <!-- Stylesheets & Icons -->
-        <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+        <link href="{{ asset('/libraries/boxicons/css/boxicons.css') }}" rel="stylesheet">
         <link rel="stylesheet" href="{{ asset('/css/globals.css') }}">
         <link rel="icon" type="image/png" href="{{ asset('/images/profile.png') }}">
 
@@ -124,7 +124,8 @@
                     In addition, I write a <a href="{{ $link['social']['blog'] }}" target="_blank"
                         rel="noopener">blog</a>
                     where I share insights on programming and technology. I’m also an active team member at
-                    UtopiaGaming.
+                    <a href="{{ $link['external-websites']['utopia-gaming'] }}" target="_blank"
+                        rel="noopener">Utopia-Gaming</a>.
                 </p>
                 <p>
                     My work combines expertise in backend and frontend technologies, including Laravel, React, Remix,
