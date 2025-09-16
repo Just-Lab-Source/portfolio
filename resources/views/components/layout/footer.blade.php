@@ -20,8 +20,8 @@
             &copy; {{ date('Y') }} Just-Lab.de All rights reserved.
         </p>
         <div class="links">
-            <a href="/legal/imprint">Imprint</a>
-            <a href="/legal/privacy">Privacy Policy</a>
+            <a href="{{ $link['legal']['imprint'] }}">Imprint</a>
+            <a href="{{ $link['legal']['privacy'] }}">Privacy Policy</a>
         </div>
     </div>
 </footer>

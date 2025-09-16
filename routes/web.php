@@ -17,7 +17,3 @@ Route::get('/legal/privacy', function () {
 Route::get('/legal/privacy-policy', function () {
     return view('legal.privacy-policy');
 });
-
-Route::get('/server/soon', function () {
-    return view('server.soon');
-});
