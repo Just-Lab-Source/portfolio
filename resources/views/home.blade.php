@@ -41,12 +41,9 @@
                 <h5>Hey, I’m Michael</h5>
                 <h3>I <span>specialize in</span> fullstack development</h3>
                 <p>
-                    I’m a young, passionate programmer currently contributing on a voluntary basis.
-                    Soon, I will be taking on freelance projects and delivering custom solutions for clients.
+                    I’m a young, passionate fullstack developer working with Laravel, React, and TypeScript.
+                    Currently open for new client projects while continuing to grow and learn every day.
                 </p>
-
-                <p>Contact me if you have questions - I'll be happy to help. Currently, I am not available for freelance
-                    projects.</p>
                 <a href="mailto:mail@just-lab.de">
                     <button>Get In Touch</button>
                 </a>
@@ -68,8 +65,8 @@
                     <div class="icon"><i class='bx bx-server'></i></div>
                     <h4>Backend Development</h4>
                     <p>
-                        Experienced in building robust server-side applications with <strong>Laravel (PHP)</strong>,
-                        creating APIs, managing databases, and implementing secure authentication systems.
+                        Skilled in developing backend applications with <strong>Laravel (PHP)</strong>,
+                        working with middleware, API endpoints, databases, and user authentication.
                     </p>
                 </div>
 
@@ -78,9 +75,10 @@
                     <div class="icon"><i class='bx bx-code-alt'></i></div>
                     <h4>Frontend Development</h4>
                     <p>
-                        Skilled in <strong>React & Remix</strong>, <strong>TypeScript</strong>, <strong>CSS /
-                            Sass</strong>,
-                        and responsive UI design to deliver smooth and interactive user experiences.
+                        Skilled in <strong>React</strong>, <strong>Next.js</strong>, and <strong>Remix</strong> with
+                        <strong>TypeScript</strong>, <strong>CSS / Sass</strong>, and responsive UI design.
+                        I also work with <strong>Prisma</strong> and backend integrations to build modern, fullstack web
+                        applications.
                     </p>
                 </div>
 
@@ -117,23 +115,25 @@
                 <h3>About Me</h3>
                 <p>
                     I’m Michael, a Fullstack Developer based in Germany, passionate about creating
-                    modern and efficient web applications. I’m currently pursuing my goal of becoming
-                    a freelance developer and taking on client projects.
+                    modern and efficient web applications. I’m a registered freelancer and actively
+                    take on client projects, delivering tailored solutions according to project needs.
+                </p>
+                <p>
+                    I enjoy learning new frameworks and technologies whenever needed to provide
+                    quality results. I continuously improve my skills in both frontend and backend
+                    development, working with tools like Laravel, React, Remix, NextJS, TypeScript, and CSS/Sass.
                 </p>
                 <p>
                     In addition, I write a <a href="{{ $link['social']['blog'] }}" target="_blank"
                         rel="noopener">blog</a>
-                    where I share insights on programming and technology. I’m also an active team member at
-                    <a href="{{ $link['external-websites']['utopia-gaming'] }}" target="_blank"
-                        rel="noopener">Utopia-Gaming</a>.
-                </p>
-                <p>
-                    My work combines expertise in backend and frontend technologies, including Laravel, React, Remix,
-                    TypeScript, and CSS/Sass, allowing me to deliver complete, high-quality solutions.
+                    where I share insights on programming and technology.
+                    I work professionally as a freelancer for <a href="https://pein-gbr.de" target="_blank"
+                        rel="noopener">PEIN-GBR</a>
+                    and contribute on a voluntary basis at <a href="{{ $link['external-websites']['utopia-gaming'] }}"
+                        target="_blank" rel="noopener">Utopia-Gaming</a>.
                 </p>
             </div>
         </div>
-
 
         <div class="portfolio" id="portfolio">
             <div class="header">

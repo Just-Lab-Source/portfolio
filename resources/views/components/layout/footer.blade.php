@@ -10,6 +10,8 @@
         </ul>
         <div class="social-links">
             <a href="{{ $link['social']['github'] }}" target="_blank" rel="noopener"><i class='bx bxl-github'></i></a>
+            <a href="{{ $link['social']['malt'] }}" target="_blank" rel="noopener"><i class='bx bx-store'></i></a>
+            <a href="{{ $link['social']['freelance'] }}" target="_blank" rel="noopener"><i class='bx bx-store'></i></a>
         </div>
     </div>
 
@@ -17,7 +19,7 @@
 
     <div class="bottom">
         <p>
-            &copy; {{ date('Y') }} Just-Lab.de All rights reserved.
+            &copy; {{ date('Y') }} Just-Lab.de All rights reserved. Portfolio Template by AsmrProg.
         </p>
         <div class="links">
             <a href="{{ $link['legal']['imprint'] }}">Imprint</a>

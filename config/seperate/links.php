@@ -10,6 +10,9 @@ return [
     'social' => [
         'github' => 'https://github.com/Just-Lab-Source',
         'blog' => 'https://blog.just-lab.de',
+        'malt' => 'https://www.malt.de/profile/michaelpacharzyna',
+        'freelance' => 'https://www.freelance.de/Freelancer/369264',
+
     ],
 
     'external-websites' => [
