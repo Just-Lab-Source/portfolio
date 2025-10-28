@@ -128,9 +128,9 @@
                         rel="noopener">blog</a>
                     where I share insights on programming and technology.
                     I work professionally as a freelancer for <a href="https://pein-gbr.de" target="_blank"
-                        rel="noopener">PEIN-GBR</a>
+                        rel="noopener">Pein GbR</a>
                     and contribute on a voluntary basis at <a href="{{ $link['external-websites']['utopia-gaming'] }}"
-                        target="_blank" rel="noopener">Utopia-Gaming</a>.
+                        target="_blank" rel="noopener">UtopiaGaming</a>.
                 </p>
             </div>
         </div>
