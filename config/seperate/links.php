@@ -12,6 +12,7 @@ return [
         'blog' => 'https://blog.just-lab.de',
         'malt' => 'https://www.malt.de/profile/michaelpacharzyna',
         'freelance' => 'https://www.freelance.de/Freelancer/369264',
+        'linkedin' => 'https://www.linkedin.com/in/michael-pacharzyna-1b1647395/',
 
     ],
 

@@ -10,6 +10,8 @@
         </ul>
         <div class="social-links">
             <a href="{{ $link['social']['github'] }}" target="_blank" rel="noopener"><i class='bx bxl-github'></i></a>
+            <a href="{{ $link['social']['linkedin'] }}" target="_blank" rel="noopener"><i
+                    class='bx bxl-linkedin-square'></i></a>
             <a href="{{ $link['social']['malt'] }}" target="_blank" rel="noopener"><i class='bx bx-store'></i></a>
             <a href="{{ $link['social']['freelance'] }}" target="_blank" rel="noopener"><i class='bx bx-store'></i></a>
         </div>
@@ -26,4 +28,7 @@
             <a href="{{ $link['legal']['privacy'] }}">Privacy Policy</a>
         </div>
     </div>
+    <a href="https://www.it-recht-kanzlei.de/" target="_blank"><img
+            src="https://www.it-recht-kanzlei.de/logo/Logo_Juristisch_betreut_durch_IT-Recht_Kanzlei.png?i=664ee-4cc70-39c6-907c-1"
+            alt="Vertreten durch die IT-Recht Kanzlei" width="200px" /></a>
 </footer>
