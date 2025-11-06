@@ -35,7 +35,6 @@
     <script src="https://www.it-recht-kanzlei.de/js/itrk-legaltext.js"></script>
 
     <x-layout.footer />
-    <script src="{{ asset('/js/script.js') }}"></script>
 </body>
 
 </html>
